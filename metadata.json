@@ -1,0 +1,6 @@
+{
+  "name": "Ancient Greece Word Match Game",
+  "description": "An interactive memory matching card game helping students learn Ancient Greece, battle, soldier, and marathon with vivid illustrations and English pronunciation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
